@@ -1,10 +1,10 @@
 import {expect} from 'chai';
-import starWars from './index';
+import partyNames from './index';
 
-describe('starwars-names', function() {
+describe('partyNames', function() {
   describe('all', function() {
     it('should be an array of strings', function() {
-      expect(starWars.all).to.satisfy(isArrayOfStrings);
+      expect(partyNames.all).to.satisfy(isArrayOfStrings);
 
       function isArrayOfStrings(array) {
         return array.every(function(item) {
@@ -14,21 +14,21 @@ describe('starwars-names', function() {
     });
 
     it('should contain `Luke Skywalker`', function() {
-      expect(starWars.all).to.include('Luke Skywalker');
+      expect(partyNames.all).to.include('80s');
     });
   });
 
   describe('random', function() {
-    it('should return a random item from the starWars.all', function() {
-      var randomItem = starWars.random();
-      expect(starWars.all).to.include(randomItem);
+    it('should return a random item from the partyNames.all', function() {
+      var randomItem = partyNames.random();
+      expect(partyNames.all).to.include(randomItem);
     });
 
     it('should return an array of random items if passed a number', function() {
-      var randomItems = starWars.random(3);
+      var randomItems = partyNames.random(3);
       expect(randomItems).to.have.length(3);
       randomItems.forEach(function(item) {
-        expect(starWars.all).to.include(item);
+        expect(partyNames.all).to.include(item);
       });
     });
   });
