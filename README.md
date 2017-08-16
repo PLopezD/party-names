@@ -4,7 +4,7 @@
 [![codecov coverage](https://img.shields.io/codecov/c/github/plopezd/party-names.svg?style=flat-square)](https://codecov.io/github/plopezd/party-names)
 [![version](https://img.shields.io/npm/v/party-names.svg?style=flat-square)](http://npm.im/party-names)
 [![downloads](https://img.shields.io/npm/dm/party-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=party-names&from=2015-08-01)
-[![MIT License](https://img.shields.io/npm/l/party-names.svg?style=flat-square)](http://opensource.org/licenses/MIT)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 
 Get random names from Star Wars characters.
