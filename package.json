@@ -1,6 +1,6 @@
 {
   "name": "party-names",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.1-semantically-released",
   "description": "Get random party names",
   "main": "dist/index.js",
   "scripts": {
@@ -28,8 +28,8 @@
   },
   "keywords": [
     "random",
-    "star",
-    "wars"
+    "party",
+    "time"
   ],
   "files": [
     "dist",
