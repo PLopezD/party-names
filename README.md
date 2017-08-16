@@ -1,6 +1,6 @@
 # party-names
 
-[![travis build](https://img.shields.io/travis/plopezd/party-names.svg?style=flat-square)](https://travis-ci.org/plopezd/party-names)
+[![travis build](https://img.shields.io/travis/PLopezD/party-names.svg?style=flat-square)](https://travis-ci.org/PLopezD/party-names)
 [![codecov coverage](https://img.shields.io/codecov/c/github/plopezd/party-names.svg?style=flat-square)](https://codecov.io/github/plopezd/party-names)
 [![version](https://img.shields.io/npm/v/party-names.svg?style=flat-square)](http://npm.im/party-names)
 [![downloads](https://img.shields.io/npm/dm/party-names.svg?style=flat-square)](http://npm-stat.com/charts.html?package=party-names&from=2015-08-01)
