@@ -1,6 +1,6 @@
 {
   "name": "party-names",
-  "version": "0.0.1-semantically-released",
+  "version": "0.0.2-semantically-released",
   "description": "Get random party names",
   "main": "dist/index.js",
   "scripts": {
