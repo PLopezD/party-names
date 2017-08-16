@@ -1,6 +1,6 @@
 {
   "name": "party-names",
-  "version": "0.0.2-semantically-released",
+  "version": "1.0.0",
   "description": "Get random party names",
   "main": "dist/index.js",
   "scripts": {
@@ -75,7 +75,6 @@
       "path": "node_modules/cz-conventional-changelog"
     }
   },
-  
   "babel": {
     "presets": [
       "es2015",
